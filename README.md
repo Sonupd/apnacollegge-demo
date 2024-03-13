@@ -1,4 +1,4 @@
 # apnacollegge-demo
 This is my first Repository.
 <br>
-Author-sonu Prasad.
+Author-sonu (MIT).
